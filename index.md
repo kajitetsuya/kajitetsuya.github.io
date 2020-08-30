@@ -2,7 +2,7 @@
 
 I am Assistant Professor of Econometrics and Statistics at the University of Chicago Booth School of Business. I work at the intersections of economics, statistics, and machine learning.
 
-[**CV**]()
+[**CV**](https://kajitetsuya.github.io/cv.pdf)
 
 ## Working Papers
 
@@ -14,7 +14,7 @@ I am Assistant Professor of Econometrics and Statistics at the University of Chi
 
 > Weak identification is analyzed in general semiparametric models. It is discovered that many insights from the weak IV literature (though not all) carry over to arbitrary weakly identified models: impossibility of consistent estimation, existence of "reduced-form parameters," etc. A notion of weak efficiency is defined. Simulation improves 2SLS and optimal IV in a linear IV model.
 
-### [Controlling Tail Risk Measures with Estimation Error]() (with H. Kang)
+### [Controlling Tail Risk Measures with Estimation Error](https://kajitetsuya.github.io/risk.pdf) (with H. Kang)
 
 > Financial risk control inevitably involves estimation of risk. If risk intends to control the probability of bad events, we construct a way to control the "true risk" exploiting the knowledge of estimation error. Such risk measures, named tail risk measures, include Value-at-Risk and expected shortfall. An empirical application controls expected shortfall in portfolio management.
 
