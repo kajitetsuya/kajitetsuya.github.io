@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+# Tetsuya Kaji
 
-You can use the [editor on GitHub](https://github.com/kajitetsuya/kajitetsuya.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am Assistant Professor of Econometrics and Statistics at the University of Chicago Booth School of Business. I work at the intersections of economics, statistics, and machine learning.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[**CV**]()
 
-### Markdown
+## Working Papers
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### [An Adversarial Approach to Structural Estimation](https://arxiv.org/abs/2007.06169) (with E. Manresa and G. Pouliot)
 
-```markdown
-Syntax highlighted code block
+> We apply a variant of the machine learning method GAN to estimate structural models with intractable likelihood.
 
-# Header 1
-## Header 2
-### Header 3
+### [Theory of Weak Identification in Semiparametric Models](https://arxiv.org/abs/1908.10478)
 
-- Bulleted
-- List
+> Weak identification is analyzed in general semiparametric models. It is discovered that many insights from the weak IV literature (though not all) carry over to arbitrary weakly identified models: impossibility of consistent estimation, existence of "reduced-form parameters," etc. A notion of weak efficiency is defined. Simulation improves 2SLS and optimal IV in a linear IV model.
 
-1. Numbered
-2. List
+### [Controlling Tail Risk Measures with Estimation Error]() (with H. Kang)
 
-**Bold** and _Italic_ and `Code` text
+> Financial risk control inevitably involves estimation of risk. If risk intends to control the probability of bad events, we construct a way to control the "true risk" exploiting the knowledge of estimation error. Such risk measures, named tail risk measures, include Value-at-Risk and expected shortfall. An empirical application controls expected shortfall in portfolio management.
 
-[Link](url) and ![Image](src)
-```
+### [Asymptotic Theory of L-Statistics and Integrable Empirical Processes](https://arxiv.org/abs/1910.07572)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+> Asymptotics of L-statistics can be tricky in some applications. I develop a new way to characterize them using integrable empirical processes and functional delta methods. Bootstrap validity is also shown. Applications to outlier robustness analysis.
 
-### Jekyll Themes
+## Work in Progress
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kajitetsuya/kajitetsuya.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Assessing Outcome-Dependent Heterogeneity in Treatment Effects (with E. Manresa)
 
-### Support or Contact
+> Treatment heterogeneity is crucial in policy targeting. First, we interpret the popular heterogeneity measure, the quantile treatment effect, by the principle of equal effects. Second, we relax it to the principle of least effects and propose bounds on subgroup treatment effects. Third, we provide sharp second-order stochastic dominance bounds on the distribution of individual treatment effects.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Publications
+
+### [Extremal Quantile Regression](https://arxiv.org/abs/1612.06850) (with V. Chernozhukov and I. Fernández-Val)
+
+> [_Handbook of Quantile Regression_](https://www.crcpress.com/Handbook-of-Quantile-Regression/Koenker-Chernozhukov-He-Peng/p/book/9781498725286), ed. by R. Koenker, V. Chernozhukov, X. He, and L. Peng, Chapman & Hall/CRC, 2017.
