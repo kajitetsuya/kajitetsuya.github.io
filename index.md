@@ -32,4 +32,4 @@ I am Assistant Professor of Econometrics and Statistics at the University of Chi
 
 ### [Extremal Quantile Regression](https://arxiv.org/abs/1612.06850) (with V. Chernozhukov and I. Fernández-Val)
 
-> [_Handbook of Quantile Regression_](https://www.crcpress.com/Handbook-of-Quantile-Regression/Koenker-Chernozhukov-He-Peng/p/book/9781498725286), ed. by R. Koenker, V. Chernozhukov, X. He, and L. Peng, Chapman & Hall/CRC, 2017.
+> [_Handbook of Quantile Regression_](https://www.crcpress.com/Handbook-of-Quantile-Regression/Koenker-Chernozhukov-He-Peng/p/book/9781498725286), ed. by R. Koenker, V. Chernozhukov, X. He, and L. Peng, Chapman & Hall/CRC, 2017. [[Code]](http://sites.bu.edu/ivanf/files/2016/12/EQR-handbook-code.zip)
