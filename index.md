@@ -6,13 +6,17 @@ I am Assistant Professor of Econometrics and Statistics at the University of Chi
 
 ## Working Papers
 
-### [An Adversarial Approach to Structural Estimation](https://arxiv.org/abs/2007.06169) (with E. Manresa and G. Pouliot)
+### [An Adversarial Approach to Structural Estimation](https://arxiv.org/abs/2007.06169) (with Elena Manresa and Guillaume Pouliot)
 
-> We apply a variant of the machine learning method GAN to estimate structural models with intractable likelihood.
+> We apply a variant of the machine learning method GAN to estimate structural models with intractable likelihood. _Revise and Resubmit at Econometrica_.
 
-### [Controlling Tail Risk Measures with Estimation Error](https://kajitetsuya.github.io/risk.pdf) (with H. Kang)
+### [Metropolis-Hastings via Classification](http://veronikarock.com/MHC.pdf) (with Veronika Rockova)
 
-> Financial risk control inevitably involves estimation of risk. If risk intends to control the probability of bad events, we construct a way to control the "true risk" exploiting the knowledge of estimation error. Such risk measures, named tail risk measures, include Value-at-Risk and expected shortfall. An empirical application controls expected shortfall in portfolio management.
+> Bayesian inference requires likelihood, while many practical models have no tractable likelihood. We use classification algorithms in place of likelihoods to draw observations from the posterior. Unlike existing methods, our method does not require a summary statistic nor an unbiased estimator of the likelihood, and can recover the exact posterior under some conditions.
+
+### [Controlling Tail Risk Measures with Estimation Error](https://kajitetsuya.github.io/risk.pdf) (with Hyungjune Kang)
+
+> Financial risk control involves estimation of risk. If risk intends to control the probability of bad events, we construct a way to control the "true risk" exploiting the knowledge of estimation error. Such risk measures, named tail risk measures, include Value-at-Risk and expected shortfall. An empirical application controls expected shortfall in portfolio management.
 
 ### [Asymptotic Theory of L-Statistics and Integrable Empirical Processes](https://arxiv.org/abs/1910.07572)
 
@@ -20,7 +24,7 @@ I am Assistant Professor of Econometrics and Statistics at the University of Chi
 
 ## Work in Progress
 
-### Assessing Outcome-Dependent Heterogeneity in Treatment Effects (with E. Manresa)
+### Assessing Outcome-Dependent Heterogeneity in Treatment Effects (with Elena Manresa)
 
 > Treatment heterogeneity is crucial in policy targeting. First, we interpret the popular heterogeneity measure, the quantile treatment effect, by the principle of equal effects. Second, we relax it to the principle of least effects and propose bounds on subgroup treatment effects. Third, we provide sharp second-order stochastic dominance bounds on the distribution of individual treatment effects.
 
@@ -28,8 +32,8 @@ I am Assistant Professor of Econometrics and Statistics at the University of Chi
 
 ### [Theory of Weak Identification in Semiparametric Models](https://arxiv.org/abs/1908.10478)
 
-> [_Econometrica_](https://www.econometricsociety.org/publications/econometrica/journal-materials/forthcoming-papers), forthcoming. [[Code]](https://www.econometricsociety.org/content/supplement-theory-weak-identification-semiparametric-models)
+> [_Econometrica_](https://doi.org/10.3982/ECTA16413), 89(2), 733-763. [[Code]](https://www.econometricsociety.org/content/supplement-theory-weak-identification-semiparametric-models)
 
-### [Extremal Quantile Regression](https://arxiv.org/abs/1612.06850) (with V. Chernozhukov and I. Fernández-Val)
+### [Extremal Quantile Regression](https://arxiv.org/abs/1612.06850) (with Victor Chernozhukov and Ivan Fernández-Val)
 
 > [_Handbook of Quantile Regression_](https://www.crcpress.com/Handbook-of-Quantile-Regression/Koenker-Chernozhukov-He-Peng/p/book/9781498725286), ed. by R. Koenker, V. Chernozhukov, X. He, and L. Peng, Chapman & Hall/CRC, 2017. [[Code]](http://sites.bu.edu/ivanf/files/2016/12/EQR-handbook-code.zip)
