@@ -30,6 +30,10 @@ I am Assistant Professor of Econometrics and Statistics at the University of Chi
 
 ## Publications
 
+### [Adversarial Inference Is Efficient](https://www.aeaweb.org/articles/pdf/doi/10.1257/pandp.20211037)
+
+> [_AEA Papers and Proceedings_](https://www.aeaweb.org/articles?id=10.1257/pandp.20211037), 111, 621-25. [[Online Appendix]](https://www.aeaweb.org/doi/10.1257/pandp.20211037.appx)
+
 ### [Theory of Weak Identification in Semiparametric Models](https://arxiv.org/abs/1908.10478)
 
 > [_Econometrica_](https://doi.org/10.3982/ECTA16413), 89(2), 733-763. [[Code]](https://www.econometricsociety.org/content/supplement-theory-weak-identification-semiparametric-models)
