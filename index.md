@@ -18,9 +18,9 @@ I am Assistant Professor of Econometrics and Statistics at the University of Chi
 
 > Financial risk control involves estimation of risk. If risk intends to control the probability of bad events, we construct a way to control the "true risk" exploiting the knowledge of estimation error. Such risk measures, named tail risk measures, include Value-at-Risk and expected shortfall. An empirical application controls expected shortfall in portfolio management.
 
-### [Asymptotic Theory of L-Statistics and Integrable Empirical Processes](https://arxiv.org/abs/1910.07572)
+### [Asymptotic Theory of _L_-Statistics and Integrable Empirical Processes](https://arxiv.org/abs/1910.07572)
 
-> Asymptotics of L-statistics can be tricky in some applications. I develop a new way to characterize them using integrable empirical processes and functional delta methods. Bootstrap validity is also shown. Applications to outlier robustness analysis.
+> Asymptotics of _L_-statistics can be tricky in some applications. I develop a new way to characterize them using integrable empirical processes and functional delta methods. Bootstrap validity is also shown. Applications to outlier robustness analysis.
 
 ## Work in Progress
 
@@ -30,13 +30,13 @@ I am Assistant Professor of Econometrics and Statistics at the University of Chi
 
 ## Publications
 
-### [Adversarial Inference Is Efficient](https://www.aeaweb.org/articles/pdf/doi/10.1257/pandp.20211037) (with Elena Manresa and Guillaume Pouliot)
+### [Adversarial Inference Is Efficient](https://www.aeaweb.org/articles?id=10.1257/pandp.20211037) (with Elena Manresa and Guillaume Pouliot)
 
-> [_AEA Papers and Proceedings_](https://www.aeaweb.org/articles?id=10.1257/pandp.20211037), 111, 621-25, May 2021. [[Online Appendix]](https://www.aeaweb.org/doi/10.1257/pandp.20211037.appx)
+> _AEA Papers and Proceedings_, 111, 621-25, May 2021. [[Online Appendix]](https://www.aeaweb.org/doi/10.1257/pandp.20211037.appx)
 
-### [Theory of Weak Identification in Semiparametric Models](https://arxiv.org/abs/1908.10478)
+### [Theory of Weak Identification in Semiparametric Models](https://doi.org/10.3982/ECTA16413)
 
-> [_Econometrica_](https://doi.org/10.3982/ECTA16413), 89(2), 733-763, March 2021. [[Code]](https://www.econometricsociety.org/content/supplement-theory-weak-identification-semiparametric-models)
+> _Econometrica_, 89(2), 733-763, March 2021. [[Code]](https://www.econometricsociety.org/content/supplement-theory-weak-identification-semiparametric-models)
 
 ### [Extremal Quantile Regression](https://arxiv.org/abs/1612.06850) (with Victor Chernozhukov and Ivan Fernández-Val)
 
