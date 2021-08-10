@@ -36,7 +36,7 @@ I am Assistant Professor of Econometrics and Statistics at the University of Chi
 
 ### [Theory of Weak Identification in Semiparametric Models](https://doi.org/10.3982/ECTA16413)
 
-> _Econometrica_, 89(2), 733-763, March 2021. [[Code]](https://www.econometricsociety.org/content/supplement-theory-weak-identification-semiparametric-models)
+> _Econometrica_, 89(2), 733-763, March 2021. [[Code]](https://www.econometricsociety.org/content/supplement-theory-weak-identification-semiparametric-models) [[Preprint]](https://arxiv.org/abs/1908.10478)
 
 ### [Extremal Quantile Regression](https://arxiv.org/abs/1612.06850) (with Victor Chernozhukov and Ivan Fernández-Val)
 
