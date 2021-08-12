@@ -38,6 +38,6 @@ I am Assistant Professor of Econometrics and Statistics at the University of Chi
 
 > _Econometrica_, 89(2), 733-763, March 2021. [[Code]](https://www.econometricsociety.org/content/supplement-theory-weak-identification-semiparametric-models) [[Preprint]](https://arxiv.org/abs/1908.10478)
 
-### [Extremal Quantile Regression](https://arxiv.org/abs/1612.06850) (with Victor Chernozhukov and Ivan Fernández-Val)
+### [Extremal Quantile Regression](https://www.taylorfrancis.com/chapters/edit/10.1201/9781315120256-18/extremal-quantile-regression-victor-chernozhukov-iv%C3%A1n-fern%C3%A1ndez-val-tetsuya-kaji?context=ubx&refId=c3c1debc-4dbc-47bb-ab4b-827d41835a5c) (with Victor Chernozhukov and Ivan Fernández-Val)
 
-> [_Handbook of Quantile Regression_](https://www.crcpress.com/Handbook-of-Quantile-Regression/Koenker-Chernozhukov-He-Peng/p/book/9781498725286), ed. by R. Koenker, V. Chernozhukov, X. He, and L. Peng, Chapman & Hall/CRC, 2017. [[Code]](http://sites.bu.edu/ivanf/files/2016/12/EQR-handbook-code.zip)
+> [_Handbook of Quantile Regression_](https://www.crcpress.com/Handbook-of-Quantile-Regression/Koenker-Chernozhukov-He-Peng/p/book/9781498725286), ed. by R. Koenker, V. Chernozhukov, X. He, and L. Peng, Chapman & Hall/CRC, 2017. [[Code]](http://sites.bu.edu/ivanf/files/2016/12/EQR-handbook-code.zip) [[Preprint]](https://arxiv.org/abs/1612.06850)
