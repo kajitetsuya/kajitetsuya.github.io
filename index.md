@@ -10,10 +10,6 @@ I am Assistant Professor of Econometrics and Statistics at the University of Chi
 
 > We apply a variant of the machine learning method GAN to estimate structural models with intractable likelihood. _R&R at Econometrica_. [[Chicago Booth Review]](https://review.chicagobooth.edu/economics/2020/article/can-automated-art-forgers-become-economists)
 
-### [Metropolis-Hastings via Classification](https://arxiv.org/abs/2103.04177) (with Veronika Ročková)
-
-> Bayesian inference requires likelihood, while many practical models have no tractable likelihood. We use classification algorithms in place of likelihoods to draw observations from the posterior. Unlike existing methods, our method does not require a summary statistic nor an unbiased estimator of the likelihood, and can recover the exact posterior under some conditions. _R&R at JASA_.
-
 ### [Approximate Bayesian Computation via Classification](https://arxiv.org/abs/2111.11507) (with Yuexi Wang and Veronika Ročková)
 
 > We propose ABC based on the Kullback–Leibler divergence estimated via classification.
@@ -33,6 +29,10 @@ I am Assistant Professor of Econometrics and Statistics at the University of Chi
 > Treatment heterogeneity is crucial in policy targeting. First, we interpret the popular heterogeneity measure, the quantile treatment effect, by the principle of equal effects. Second, we relax it to the principle of least effects and propose bounds on subgroup treatment effects. Third, we provide sharp second-order stochastic dominance bounds on the distribution of individual treatment effects.
 
 ## Publications
+
+### [Metropolis-Hastings via Classification](https://doi.org/10.1080/01621459.2022.2060836) (with Veronika Ročková)
+
+> _JASA_, forthcoming. [[Preprint]](https://arxiv.org/abs/2103.04177)
 
 ### [Adversarial Inference Is Efficient](https://www.aeaweb.org/articles?id=10.1257/pandp.20211037) (with Elena Manresa and Guillaume Pouliot)
 
