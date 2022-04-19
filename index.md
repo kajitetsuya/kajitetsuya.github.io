@@ -32,7 +32,7 @@ I am Assistant Professor of Econometrics and Statistics at the University of Chi
 
 ### [Metropolis-Hastings via Classification](https://doi.org/10.1080/01621459.2022.2060836) (with Veronika Ročková)
 
-> _JASA_, forthcoming. [[Preprint]](https://arxiv.org/abs/2103.04177)
+> _Journal of the American Statistical Association_, forthcoming. [[Preprint]](https://arxiv.org/abs/2103.04177)
 
 ### [Adversarial Inference Is Efficient](https://www.aeaweb.org/articles?id=10.1257/pandp.20211037) (with Elena Manresa and Guillaume Pouliot)
 
