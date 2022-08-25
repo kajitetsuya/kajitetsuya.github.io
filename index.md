@@ -4,6 +4,12 @@ I am Assistant Professor of Econometrics and Statistics at the University of Chi
 
 [**CV**](https://kajitetsuya.github.io/cv.pdf)
 
+## Class Material
+
+### BUSN 41901 Probability and Statistics
+
+> [Lecture Notes](https://kajitetsuya.github.io/41901notes.pdf)
+
 ## Working Papers
 
 ### [An Adversarial Approach to Structural Estimation](https://arxiv.org/abs/2007.06169) (with Elena Manresa and Guillaume Pouliot)
