@@ -8,7 +8,7 @@ I am Assistant Professor of Econometrics and Statistics at the University of Chi
 
 ### BUSN 41901 Probability and Statistics
 
-> This is a PhD course that introduces fundamental statistical concepts for academic research in business and economics. It covers basic topics in probability and statistics, including limit theorems, principles of estimation and inference, linear and logistic regression, and causal inference. Much emphasis is put on large-sample (asymptotic) theory. [[Lecture Notes]](https://kajitetsuya.github.io/41901notes.pdf)
+> This is a PhD course that introduces fundamental statistical concepts for academic research in business and economics. [[Lecture Notes]](https://kajitetsuya.github.io/41901notes.pdf)
 
 ## Working Papers
 
