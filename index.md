@@ -2,6 +2,8 @@
 
 I am Assistant Professor of Econometrics and Statistics at the University of Chicago Booth School of Business. I work at the intersections of economics, statistics, and machine learning.
 
+<img src="chicago-booth-tetsuya-kaji.jpg" width="250" />
+
 [**CV**](https://kajitetsuya.github.io/cv.pdf)
 
 ## Class Material
