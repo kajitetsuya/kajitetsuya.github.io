@@ -18,10 +18,6 @@ I am Assistant Professor of Econometrics and Statistics at the University of Chi
 
 > We apply a variant of the machine learning method GAN to estimate structural models with intractable likelihood. _R&R at Econometrica_. [[Chicago Booth Review]](https://review.chicagobooth.edu/economics/2020/article/can-automated-art-forgers-become-economists)
 
-### [Approximate Bayesian Computation via Classification](https://arxiv.org/abs/2111.11507) (with Yuexi Wang and Veronika Ročková)
-
-> We propose ABC based on the Kullback–Leibler divergence estimated via classification.
-
 ### [Controlling Tail Risk Measures with Estimation Error](https://kajitetsuya.github.io/risk.pdf) (with Hyungjune Kang)
 
 > Financial risk control involves estimation of risk. If risk intends to control the probability of bad events, we construct a way to control the "true risk" exploiting the knowledge of estimation error. Such risk measures, named tail risk measures, include Value-at-Risk and expected shortfall. An empirical application controls expected shortfall in portfolio management.
@@ -37,6 +33,10 @@ I am Assistant Professor of Econometrics and Statistics at the University of Chi
 > Treatment heterogeneity is crucial in policy targeting. First, we interpret the popular heterogeneity measure, the quantile treatment effect, by the principle of equal effects. Second, we relax it to the principle of least effects and propose bounds on subgroup treatment effects. Third, we provide sharp second-order stochastic dominance bounds on the distribution of individual treatment effects.
 
 ## Publications
+
+### [Approximate Bayesian Computation via Classification](https://arxiv.org/abs/2111.11507) (with Yuexi Wang and Veronika Ročková)
+
+> _Journal of Machine Learning Research_, accepted.
 
 ### [Metropolis-Hastings via Classification](https://doi.org/10.1080/01621459.2022.2060836) (with Veronika Ročková)
 
