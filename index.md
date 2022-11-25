@@ -34,9 +34,9 @@ I am Assistant Professor of Econometrics and Statistics at the University of Chi
 
 ## Publications
 
-### [Approximate Bayesian Computation via Classification](https://arxiv.org/abs/2111.11507) (with Yuexi Wang and Veronika Ročková)
+### [Approximate Bayesian Computation via Classification](https://jmlr.org/papers/v23/22-0383.html) (with Yuexi Wang and Veronika Ročková)
 
-> _Journal of Machine Learning Research_, accepted.
+> _Journal of Machine Learning Research_, 23(350):1−49, 2022. [[Preprint]](https://arxiv.org/abs/2111.11507)
 
 ### [Metropolis-Hastings via Classification](https://doi.org/10.1080/01621459.2022.2060836) (with Veronika Ročková)
 
