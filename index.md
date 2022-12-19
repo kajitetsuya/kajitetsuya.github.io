@@ -22,7 +22,7 @@ I am Assistant Professor of Econometrics and Statistics at the University of Chi
 
 > _Journal of the American Statistical Association_, forthcoming. [[Preprint]](https://arxiv.org/abs/2103.04177) [[Online Appendix]](https://ndownloader.figstatic.com/files/34780756)
 
-### [Adversarial Inference Is Efficient](https://www.aeaweb.org/articles?id=10.1257/pandp.20211037) (with Elena Manresa and Guillaume Pouliot)
+### [Adversarial Inference Is Efficient](https://doi.org/10.1257/pandp.20211037) (with Elena Manresa and Guillaume Pouliot)
 
 > _AEA Papers and Proceedings_, 111, 621-25, May 2021. [[Online Appendix]](https://www.aeaweb.org/doi/10.1257/pandp.20211037.appx)
 
@@ -32,7 +32,7 @@ I am Assistant Professor of Econometrics and Statistics at the University of Chi
 
 ### [Extremal Quantile Regression](https://www.taylorfrancis.com/chapters/edit/10.1201/9781315120256-18/extremal-quantile-regression-victor-chernozhukov-iv%C3%A1n-fern%C3%A1ndez-val-tetsuya-kaji) (with Victor Chernozhukov and Iván Fernández-Val)
 
-> [_Handbook of Quantile Regression_](https://www.crcpress.com/Handbook-of-Quantile-Regression/Koenker-Chernozhukov-He-Peng/p/book/9781498725286), ed. by R. Koenker, V. Chernozhukov, X. He, and L. Peng, Chapman & Hall/CRC, 2017. [[Preprint]](https://arxiv.org/abs/1612.06850) [[Code]](http://sites.bu.edu/ivanf/files/2016/12/EQR-handbook-code.zip)
+> [_Handbook of Quantile Regression_](https://doi.org/10.1201/9781315120256), ed. by R. Koenker, V. Chernozhukov, X. He, and L. Peng, Chapman & Hall/CRC, 2017. [[Preprint]](https://arxiv.org/abs/1612.06850) [[Code]](http://sites.bu.edu/ivanf/files/2016/12/EQR-handbook-code.zip)
 
 ## Working Papers
 
