@@ -24,15 +24,15 @@ I am Assistant Professor of Econometrics and Statistics at the University of Chi
 
 ### [Adversarial Inference Is Efficient](https://doi.org/10.1257/pandp.20211037) (with Elena Manresa and Guillaume Pouliot)
 
-> _AEA Papers and Proceedings_, 111, 621-25, May 2021. [[Online Appendix]](https://www.aeaweb.org/doi/10.1257/pandp.20211037.appx)
+> _AEA Papers and Proceedings_, 111, 621-625, May 2021. [[Online Appendix]](https://www.aeaweb.org/doi/10.1257/pandp.20211037.appx)
 
 ### [Theory of Weak Identification in Semiparametric Models](https://doi.org/10.3982/ECTA16413)
 
 > _Econometrica_, 89(2), 733-763, March 2021. [[Preprint]](https://arxiv.org/abs/1908.10478) [[Code]](https://www.econometricsociety.org/content/supplement-theory-weak-identification-semiparametric-models)
 
-### [Extremal Quantile Regression](https://www.taylorfrancis.com/chapters/edit/10.1201/9781315120256-18/extremal-quantile-regression-victor-chernozhukov-iv%C3%A1n-fern%C3%A1ndez-val-tetsuya-kaji) (with Victor Chernozhukov and Iván Fernández-Val)
+### [Extremal Quantile Regression](https://doi.org/10.1201/9781315120256-18) (with Victor Chernozhukov and Iván Fernández-Val)
 
-> [_Handbook of Quantile Regression_](https://doi.org/10.1201/9781315120256), ed. by R. Koenker, V. Chernozhukov, X. He, and L. Peng, Chapman & Hall/CRC, 2017. [[Preprint]](https://arxiv.org/abs/1612.06850) [[Code]](http://sites.bu.edu/ivanf/files/2016/12/EQR-handbook-code.zip)
+> [_Handbook of Quantile Regression_](https://doi.org/10.1201/9781315120256), ed. by R. Koenker, V. Chernozhukov, X. He, and L. Peng, Chapman & Hall/CRC, 2017, ch. 18, 333-362. [[Preprint]](https://arxiv.org/abs/1612.06850) [[Code]](http://sites.bu.edu/ivanf/files/2016/12/EQR-handbook-code.zip)
 
 ## Working Papers
 
