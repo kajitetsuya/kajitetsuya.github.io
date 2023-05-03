@@ -36,7 +36,7 @@ I am Assistant Professor of Econometrics and Statistics at the University of Chi
 
 ## Working Papers
 
-### [An Adversarial Approach to Structural Estimation](https://arxiv.org/abs/2007.06169) (with Elena Manresa and Guillaume Pouliot)
+### [An Adversarial Approach to Structural Estimation](https://www.dropbox.com/s/0nbtlwnaq9u5ik3/adversarial20230502.pdf) (with Elena Manresa and Guillaume Pouliot)
 
 > We apply a variant of the machine learning method GAN to estimate structural models with intractable likelihood. _R&R at Econometrica_. [[Chicago Booth Review]](https://review.chicagobooth.edu/economics/2020/article/can-automated-art-forgers-become-economists)
 
