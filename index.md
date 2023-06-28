@@ -36,6 +36,10 @@ I am Assistant Professor of Econometrics and Statistics at the University of Chi
 
 ## Working Papers
 
+### [Assessing Heterogeneity of Treatment Effects](https://arxiv.org/abs/2306.15048) (with Jianfei Cao)
+
+> Treatment effect heterogeneity is important in economics. We introduce bounds on two measures of heterogeneity that complement quantile treatment effects. The first measure is the subgroup treatment effect, which is the average treatment effect for the subgroup defined by a range of _Y_<sub>0</sub>. The second measure is the subgroup proportion of winners, which is the share of those whose _Y_<sub>1</sub> is greater than _Y_<sub>0</sub> in the same subgroup.
+
 ### [An Adversarial Approach to Structural Estimation](https://www.dropbox.com/s/0nbtlwnaq9u5ik3/adversarial20230502.pdf) (with Elena Manresa and Guillaume Pouliot)
 
 > We apply a variant of the machine learning method GAN to estimate structural models with intractable likelihood. _R&R at Econometrica_. [[Chicago Booth Review]](https://review.chicagobooth.edu/economics/2020/article/can-automated-art-forgers-become-economists)
@@ -47,9 +51,3 @@ I am Assistant Professor of Econometrics and Statistics at the University of Chi
 ### [Asymptotic Theory of _L_-Statistics and Integrable Empirical Processes](https://arxiv.org/abs/1910.07572)
 
 > Asymptotics of _L_-statistics can be tricky in some applications. I develop a new way to characterize them using integrable empirical processes and functional delta methods. Bootstrap validity is also shown. Applications to outlier robustness analysis.
-
-## Work in Progress
-
-### Assessing Outcome-Dependent Heterogeneity in Treatment Effects
-
-> Treatment heterogeneity is crucial in policy targeting. First, we interpret the popular heterogeneity measure, the quantile treatment effect, by the principle of equal effects. Second, we relax it to the principle of least effects and propose bounds on subgroup treatment effects. Third, we provide sharp second-order stochastic dominance bounds on the distribution of individual treatment effects.
