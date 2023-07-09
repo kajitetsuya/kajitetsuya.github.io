@@ -2,7 +2,7 @@
 
 <img src="chicago-booth-tetsuya-kaji.jpg" width="250" />
 
-I am Assistant Professor of Econometrics and Statistics at the University of Chicago Booth School of Business. I work at the intersections of economics, statistics, and machine learning.
+I am Associate Professor of Econometrics and Statistics at the University of Chicago Booth School of Business. I work at the intersections of economics, statistics, and machine learning.
 
 [**CV**](https://kajitetsuya.github.io/cv.pdf)
 
@@ -11,6 +11,24 @@ I am Assistant Professor of Econometrics and Statistics at the University of Chi
 ### BUSN 41901 Probability and Statistics
 
 > This is a PhD course that introduces fundamental statistical concepts for academic research in business and economics. [[Lecture Notes]](https://kajitetsuya.github.io/41901notes.pdf)
+
+## Working Papers
+
+### [Assessing Heterogeneity of Treatment Effects](https://arxiv.org/abs/2306.15048) (with Jianfei Cao)
+
+> Treatment effect heterogeneity is important in economics. We introduce bounds on two measures of heterogeneity that complement quantile treatment effects. The first measure is the subgroup treatment effect, which is the average treatment effect for the subgroup defined by a range of _Y_<sub>0</sub>. The second measure is the subgroup proportion of winners, which is the share of those whose _Y_<sub>1</sub> is greater than _Y_<sub>0</sub> in the same subgroup.
+
+### [An Adversarial Approach to Structural Estimation](https://www.dropbox.com/s/0nbtlwnaq9u5ik3/adversarial20230502.pdf) (with Elena Manresa and Guillaume Pouliot)
+
+> We apply a variant of the machine learning method GAN to estimate structural models with intractable likelihood. _R&R at Econometrica_. [[Chicago Booth Review]](https://review.chicagobooth.edu/economics/2020/article/can-automated-art-forgers-become-economists)
+
+### [Controlling Tail Risk Measures with Estimation Error](https://kajitetsuya.github.io/risk.pdf) (with Hyungjune Kang)
+
+> Financial risk control involves estimation of risk. If risk intends to control the probability of bad events, we construct a way to control the "true risk" exploiting the knowledge of estimation error. Such risk measures, named tail risk measures, include Value-at-Risk and expected shortfall. An empirical application controls expected shortfall in portfolio management.
+
+### [Asymptotic Theory of _L_-Statistics and Integrable Empirical Processes](https://arxiv.org/abs/1910.07572)
+
+> Asymptotics of _L_-statistics can be tricky in some applications. I develop a new way to characterize them using integrable empirical processes and functional delta methods. Bootstrap validity is also shown. Applications to outlier robustness analysis.
 
 ## Publications
 
@@ -33,21 +51,3 @@ I am Assistant Professor of Econometrics and Statistics at the University of Chi
 ### [Extremal Quantile Regression](https://doi.org/10.1201/9781315120256-18) (with Victor Chernozhukov and Iván Fernández-Val)
 
 > [_Handbook of Quantile Regression_](https://doi.org/10.1201/9781315120256), ed. by R. Koenker, V. Chernozhukov, X. He, and L. Peng, Chapman & Hall/CRC, 2017, ch. 18, 333-362. [[Preprint]](https://arxiv.org/abs/1612.06850) [[Code]](http://sites.bu.edu/ivanf/files/2016/12/EQR-handbook-code.zip)
-
-## Working Papers
-
-### [Assessing Heterogeneity of Treatment Effects](https://arxiv.org/abs/2306.15048) (with Jianfei Cao)
-
-> Treatment effect heterogeneity is important in economics. We introduce bounds on two measures of heterogeneity that complement quantile treatment effects. The first measure is the subgroup treatment effect, which is the average treatment effect for the subgroup defined by a range of _Y_<sub>0</sub>. The second measure is the subgroup proportion of winners, which is the share of those whose _Y_<sub>1</sub> is greater than _Y_<sub>0</sub> in the same subgroup.
-
-### [An Adversarial Approach to Structural Estimation](https://www.dropbox.com/s/0nbtlwnaq9u5ik3/adversarial20230502.pdf) (with Elena Manresa and Guillaume Pouliot)
-
-> We apply a variant of the machine learning method GAN to estimate structural models with intractable likelihood. _R&R at Econometrica_. [[Chicago Booth Review]](https://review.chicagobooth.edu/economics/2020/article/can-automated-art-forgers-become-economists)
-
-### [Controlling Tail Risk Measures with Estimation Error](https://kajitetsuya.github.io/risk.pdf) (with Hyungjune Kang)
-
-> Financial risk control involves estimation of risk. If risk intends to control the probability of bad events, we construct a way to control the "true risk" exploiting the knowledge of estimation error. Such risk measures, named tail risk measures, include Value-at-Risk and expected shortfall. An empirical application controls expected shortfall in portfolio management.
-
-### [Asymptotic Theory of _L_-Statistics and Integrable Empirical Processes](https://arxiv.org/abs/1910.07572)
-
-> Asymptotics of _L_-statistics can be tricky in some applications. I develop a new way to characterize them using integrable empirical processes and functional delta methods. Bootstrap validity is also shown. Applications to outlier robustness analysis.
