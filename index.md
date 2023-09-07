@@ -18,10 +18,6 @@ I am Associate Professor of Econometrics and Statistics at the University of Chi
 
 > Treatment effect heterogeneity is important in economics. We introduce bounds on two measures of heterogeneity that complement quantile treatment effects. The first measure is the subgroup treatment effect, which is the average treatment effect for the subgroup defined by a range of _Y_<sub>0</sub>. The second measure is the subgroup proportion of winners, which is the share of those whose _Y_<sub>1</sub> is greater than _Y_<sub>0</sub> in the same subgroup.
 
-### [An Adversarial Approach to Structural Estimation](https://www.dropbox.com/s/0nbtlwnaq9u5ik3/adversarial20230502.pdf) (with Elena Manresa and Guillaume Pouliot)
-
-> We apply a variant of the machine learning method GAN to estimate structural models with intractable likelihood. _R&R at Econometrica_. [[Chicago Booth Review]](https://review.chicagobooth.edu/economics/2020/article/can-automated-art-forgers-become-economists) [[Code]](https://doi.org/10.5281/zenodo.8310266)
-
 ### [Controlling Tail Risk Measures with Estimation Error](https://kajitetsuya.github.io/risk.pdf) (with Hyungjune Kang)
 
 > Financial risk control involves estimation of risk. If risk intends to control the probability of bad events, we construct a way to control the "true risk" exploiting the knowledge of estimation error. Such risk measures, named tail risk measures, include Value-at-Risk and expected shortfall. An empirical application controls expected shortfall in portfolio management.
@@ -31,6 +27,10 @@ I am Associate Professor of Econometrics and Statistics at the University of Chi
 > Asymptotics of _L_-statistics can be tricky in some applications. I develop a new way to characterize them using integrable empirical processes and functional delta methods. Bootstrap validity is also shown. Applications to outlier robustness analysis.
 
 ## Publications
+
+### [An Adversarial Approach to Structural Estimation](https://www.econometricsociety.org/publications/econometrica/0000/00/00/An-Adversarial-Approach-to-Structural-Estimation/file/18707-5.pdf) (with Elena Manresa and Guillaume Pouliot)
+
+> _Econometrica_, forthcoming. [[Preprint]](https://arxiv.org/abs/2007.06169) [[Online Appendix]](https://www.econometricsociety.org/publications/econometrica/0000/00/00/An-Adversarial-Approach-to-Structural-Estimation/supp/18707_OnlineAppendix.pdf) [[Code]](https://doi.org/10.5281/zenodo.8310266) [[Chicago Booth Review]](https://review.chicagobooth.edu/economics/2020/article/can-automated-art-forgers-become-economists)
 
 ### [Approximate Bayesian Computation via Classification](https://jmlr.org/papers/v23/22-0383.html) (with Yuexi Wang and Veronika Ročková)
 
