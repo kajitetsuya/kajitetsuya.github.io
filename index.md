@@ -28,7 +28,7 @@ I am Associate Professor of Econometrics and Statistics at the University of Chi
 
 ## Publications
 
-### [An Adversarial Approach to Structural Estimation](https://www.econometricsociety.org/publications/econometrica/0000/00/00/An-Adversarial-Approach-to-Structural-Estimation/file/18707-5.pdf)
+### [An Adversarial Approach to Structural Estimation](https://doi.org/10.3982/ECTA18707)
 
 > _Econometrica_, forthcoming (with Elena Manresa and Guillaume Pouliot). [[Preprint]](https://arxiv.org/abs/2007.06169v2) [[Online Appendix]](https://www.econometricsociety.org/publications/econometrica/0000/00/00/An-Adversarial-Approach-to-Structural-Estimation/supp/18707_OnlineAppendix.pdf) [[Code]](https://doi.org/10.5281/zenodo.8310266) [[Chicago Booth Review]](https://review.chicagobooth.edu/economics/2020/article/can-automated-art-forgers-become-economists)
 
