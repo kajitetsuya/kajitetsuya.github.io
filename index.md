@@ -30,7 +30,7 @@ I am Associate Professor of Econometrics and Statistics at the University of Chi
 
 ### [An Adversarial Approach to Structural Estimation](https://doi.org/10.3982/ECTA18707)
 
-> _Econometrica_, **91**(6), 2041−2063, 2023 (with Elena Manresa and Guillaume Pouliot). [[Preprint]](https://arxiv.org/abs/2007.06169v2) [[Online Appendix]](https://www.econometricsociety.org/publications/econometrica/browse/2023/11/01/An-Adversarial-Approach-to-Structural-Estimation/supp/ecta200617-sup-0001-onlineappendix.pdf) [[Code]](https://doi.org/10.5281/zenodo.8310266) [[Chicago Booth Review]](https://review.chicagobooth.edu/economics/2020/article/can-automated-art-forgers-become-economists)
+> _Econometrica_, **91**(6), 2041−2063, November 2023 (with Elena Manresa and Guillaume Pouliot). [[Preprint]](https://arxiv.org/abs/2007.06169v2) [[Online Appendix]](https://www.econometricsociety.org/publications/econometrica/browse/2023/11/01/An-Adversarial-Approach-to-Structural-Estimation/supp/ecta200617-sup-0001-onlineappendix.pdf) [[Code]](https://doi.org/10.5281/zenodo.8310266) [[Chicago Booth Review]](https://review.chicagobooth.edu/economics/2020/article/can-automated-art-forgers-become-economists)
 
 ### [Metropolis-Hastings via Classification](https://doi.org/10.1080/01621459.2022.2060836)
 
