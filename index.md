@@ -14,7 +14,11 @@ I am Associate Professor of Econometrics and Statistics at the University of Chi
 
 ## Working Papers
 
-### [Assessing Heterogeneity of Treatment Effects](https://arxiv.org/abs/2306.15048)
+### [Necessary and Sufficient Conditions for Convergence in Distribution of Quantile and P-P Processes in _L_<sup>1</sup>(0,1)](https://doi.org/10.48550/arXiv.2502.01254)
+
+> The necessary and sufficient condition for the empirical quantile process to converge in _L_<sup>1</sup> is given. In addition to the necessary and sufficient condition for the empirical cdf process to converge in _L_<sup>1</sup>, it requires local absolute continuity of the quantile function. (with Brendan Beare)
+
+### [Assessing Heterogeneity of Treatment Effects](https://doi.org/10.48550/arXiv.2306.15048)
 
 > Treatment effect heterogeneity is important in economics. We introduce bounds on two measures of heterogeneity that complement quantile treatment effects. The first measure is the subgroup treatment effect, which is the average treatment effect for the subgroup defined by a range of _Y_<sub>0</sub>. The second measure is the subgroup proportion of winners, which is the share of those whose _Y_<sub>1</sub> is greater than _Y_<sub>0</sub> in the same subgroup. (with Jianfei Cao)
 
@@ -22,9 +26,9 @@ I am Associate Professor of Econometrics and Statistics at the University of Chi
 
 > Financial risk control involves estimation of risk. If risk intends to control the probability of bad events, we construct a way to control the "true risk" exploiting the knowledge of estimation error. Such risk measures, named tail risk measures, include Value-at-Risk and expected shortfall. An empirical application controls expected shortfall in portfolio management. (with Hyungjune Kang)
 
-### [Asymptotic Theory of _L_-Statistics and Integrable Empirical Processes](https://arxiv.org/abs/1910.07572)
+### [Asymptotic Theory of _L_-Statistics and Integrable Empirical Processes](https://doi.org/10.48550/arXiv.1910.07572)
 
-> Asymptotics of _L_-statistics can be tricky in some applications. I develop a new way to characterize them using integrable empirical processes and functional delta methods. Bootstrap validity is also shown. Applications to outlier robustness analysis.
+> The main result of this paper has been generalized in "Necessary and Sufficient Conditions for Convergence in Distribution of Quantile and P-P Processes in _L_<sup>1</sup>(0,1)."
 
 ## Publications
 
@@ -34,11 +38,11 @@ I am Associate Professor of Econometrics and Statistics at the University of Chi
 
 ### [Metropolis-Hastings via Classification](https://doi.org/10.1080/01621459.2022.2060836)
 
-> _Journal of the American Statistical Association_, **118**(544), 2533−2547, 2023 (with Veronika Ročková). [[Preprint]](https://arxiv.org/abs/2103.04177) [[Online Appendix]](https://ndownloader.figstatic.com/files/34780756)
+> _Journal of the American Statistical Association_, **118**(544), 2533−2547, 2023 (with Veronika Ročková). [[Preprint]](https://doi.org/10.48550/arXiv.2103.04177) [[Online Appendix]](https://ndownloader.figstatic.com/files/34780756)
 
 ### [Approximate Bayesian Computation via Classification](https://jmlr.org/papers/v23/22-0383.html)
 
-> _Journal of Machine Learning Research_, **23**(350), 1−49, 2022 (with Yuexi Wang and Veronika Ročková). [[Preprint]](https://arxiv.org/abs/2111.11507)
+> _Journal of Machine Learning Research_, **23**(350), 1−49, 2022 (with Yuexi Wang and Veronika Ročková). [[Preprint]](https://doi.org/10.48550/arXiv.2111.11507)
 
 ### [Adversarial Inference Is Efficient](https://doi.org/10.1257/pandp.20211037)
 
@@ -46,8 +50,8 @@ I am Associate Professor of Econometrics and Statistics at the University of Chi
 
 ### [Theory of Weak Identification in Semiparametric Models](https://doi.org/10.3982/ECTA16413)
 
-> _Econometrica_, **89**(2), 733−763, March 2021. [[Preprint]](https://arxiv.org/abs/1908.10478) [[Code]](https://www.econometricsociety.org/content/supplement-theory-weak-identification-semiparametric-models)
+> _Econometrica_, **89**(2), 733−763, March 2021. [[Preprint]](https://doi.org/10.48550/arXiv.1908.10478) [[Code]](https://www.econometricsociety.org/content/supplement-theory-weak-identification-semiparametric-models)
 
 ### [Extremal Quantile Regression](https://doi.org/10.1201/9781315120256-18)
 
-> [_Handbook of Quantile Regression_](https://doi.org/10.1201/9781315120256), ed. by R. Koenker, V. Chernozhukov, X. He, and L. Peng, Chapman & Hall/CRC, 2017, ch. 18, 333-362 (with Victor Chernozhukov and Iván Fernández-Val). [[Preprint]](https://arxiv.org/abs/1612.06850) [[Code]](http://sites.bu.edu/ivanf/files/2016/12/EQR-handbook-code.zip)
+> [_Handbook of Quantile Regression_](https://doi.org/10.1201/9781315120256), ed. by R. Koenker, V. Chernozhukov, X. He, and L. Peng, Chapman & Hall/CRC, 2017, ch. 18, 333-362 (with Victor Chernozhukov and Iván Fernández-Val). [[Preprint]](https://doi.org/10.48550/arXiv.1612.06850) [[Code]](http://sites.bu.edu/ivanf/files/2016/12/EQR-handbook-code.zip)
