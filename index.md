@@ -6,12 +6,6 @@ I am Associate Professor of Econometrics and Statistics at the University of Chi
 
 [**CV**](https://kajitetsuya.github.io/cv.pdf)
 
-## Class Material
-
-### BUSN 41901 Probability and Statistics
-
-> This is a PhD course that introduces fundamental statistical concepts for academic research in business and economics. [[Lecture Notes]](https://kajitetsuya.github.io/41901notes.pdf)
-
 ## Working Papers
 
 ### [Necessary and Sufficient Conditions for Convergence in Distribution of Quantile and P-P Processes in _L_<sup>1</sup>(0,1)](https://doi.org/10.48550/arXiv.2502.01254)
