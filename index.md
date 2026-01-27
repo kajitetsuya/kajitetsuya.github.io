@@ -8,6 +8,10 @@ I am Associate Professor of Econometrics and Statistics at the University of Chi
 
 ## Working Papers
 
+### [The Hellinger Bounds on the Kullback-Leibler Divergence and the Bernstein Norm](https://arxiv.org/abs/2601.17860)
+
+> This paper characterizes the necessary and sufficient condition for the Hellinger distance to bound each of the Kullback-Leibler divergence and variation and the Bernstein "norm" of the log-likelihood ratio.
+
 ### [Necessary and Sufficient Conditions for Convergence in Distribution of Quantile and P-P Processes in _L_<sup>1</sup>(0,1)](https://doi.org/10.48550/arXiv.2502.01254)
 
 > The necessary and sufficient condition for the empirical quantile process to converge in _L_<sup>1</sup> is given. In addition to the necessary and sufficient condition for the empirical _cdf_ process to converge in _L_<sup>1</sup>, it requires local absolute continuity of the quantile function. (with Brendan Beare)
