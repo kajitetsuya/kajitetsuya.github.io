@@ -10,23 +10,13 @@ I am Associate Professor of Econometrics and Statistics at the University of Chi
 
 ### [The Hellinger Bounds on the Kullback-Leibler Divergence and the Bernstein Norm](https://arxiv.org/abs/2601.17860)
 
-> This paper characterizes the necessary and sufficient condition for the Hellinger distance to bound each of the Kullback-Leibler divergence and variation and the Bernstein "norm" of the log-likelihood ratio.
+### [Necessary and Sufficient Conditions for Convergence in Distribution of P-P Process in _L_<sup>1</sup>(0,1)](https://arxiv.org/abs/2601.18390) (with Brendan Beare)
 
-### [Necessary and Sufficient Conditions for Convergence in Distribution of Quantile and P-P Processes in _L_<sup>1</sup>(0,1)](https://doi.org/10.48550/arXiv.2502.01254)
+### [Necessary and Sufficient Conditions for Convergence in Distribution of Quantile Process in _L_<sup>1</sup>(0,1)](https://doi.org/10.48550/arXiv.2502.01254) (with Brendan Beare)
 
-> The necessary and sufficient condition for the empirical quantile process to converge in _L_<sup>1</sup> is given. In addition to the necessary and sufficient condition for the empirical _cdf_ process to converge in _L_<sup>1</sup>, it requires local absolute continuity of the quantile function. (with Brendan Beare)
+### [Assessing Heterogeneity of Treatment Effects](https://doi.org/10.48550/arXiv.2306.15048) (with Jianfei Cao)
 
-### [Assessing Heterogeneity of Treatment Effects](https://doi.org/10.48550/arXiv.2306.15048)
-
-> We derive sharp bounds on the subgroup treatment effects and the subgroup proportions of winners, which complement the quantile treatment effects. (with Jianfei Cao)
-
-### [Controlling Tail Risk Measures with Estimation Error](https://kajitetsuya.github.io/risk.pdf)
-
-> Risk control with Value-at-Risk and expected shortfall bounds the probability of bad events. We construct a way to bound the "true probability" when a valid confidence interval is available for the risk measures. (with Hyungjune Kang)
-
-### [Asymptotic Theory of _L_-Statistics and Integrable Empirical Processes](https://doi.org/10.48550/arXiv.1910.07572)
-
-> The main result of this paper has been generalized and is contained in "Necessary and Sufficient Conditions for Convergence in Distribution of Quantile and P-P Processes in _L_<sup>1</sup>(0,1)" with Brendan Beare.
+### [Controlling Tail Risk Measures with Estimation Error](https://kajitetsuya.github.io/risk.pdf) (with Hyungjune Kang)
 
 ## Publications
 
