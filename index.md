@@ -8,11 +8,11 @@ I am Associate Professor of Econometrics and Statistics at the University of Chi
 
 ## Working Papers
 
-### [The Hellinger Bounds on the Kullback-Leibler Divergence and the Bernstein Norm](https://arxiv.org/abs/2601.17860)
+### [The Hellinger Bounds on the Kullback-Leibler Divergence and the Bernstein Norm](https://doi.org/10.48550/arXiv.2601.17860)
 
 ### [Why Do the Elderly Save? Using Health Shocks to Uncover Bequests Motives](https://doi.org/10.48550/arXiv.2511.13275) (with Elena Manresa)
 
-### [A Necessary and Sufficient Condition for Convergence in Distribution of P-P Process in _L_<sup>1</sup>(0,1)](https://arxiv.org/abs/2601.18390) (with Brendan Beare)
+### [A Necessary and Sufficient Condition for Convergence in Distribution of P-P Process in _L_<sup>1</sup>(0,1)](https://doi.org/10.48550/arXiv.2601.18390) (with Brendan Beare)
 
 ### [A Necessary and Sufficient Condition for Convergence in Distribution of Quantile Process in _L_<sup>1</sup>(0,1)](https://doi.org/10.48550/arXiv.2502.01254) (with Brendan Beare)
 
