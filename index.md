@@ -18,7 +18,7 @@ I am Associate Professor of Econometrics and Statistics at the University of Chi
 
 ## Publications
 
-### [Why Do the Elderly Save? Using Health Shocks to Uncover Bequests Motives](https://doi.org/10.48550/arXiv.2511.13275)
+### [Why Do the Elderly Save? Using Health Shocks to Uncover Bequests Motives](https://doi.org/10.1007/s42973-026-00249-5)
 
 > _Japanese Economic Review_, forthcoming, 2026 (with Elena Manresa). [[Preprint]](https://doi.org/10.48550/arXiv.2511.13275)
 
