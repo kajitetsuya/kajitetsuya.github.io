@@ -10,13 +10,15 @@ I am Associate Professor of Econometrics and Statistics at the University of Chi
 
 ### [A Necessary and Sufficient Condition for Convergence in Distribution of P-P Process in _L_<sup>1</sup>(0,1)](https://doi.org/10.48550/arXiv.2601.18390) (with Brendan Beare)
 
-### [A Necessary and Sufficient Condition for Convergence in Distribution of Quantile Process in _L_<sup>1</sup>(0,1)](https://doi.org/10.48550/arXiv.2502.01254) (with Brendan Beare)
-
 ### [Assessing Heterogeneity of Treatment Effects](https://doi.org/10.48550/arXiv.2306.15048) (with Jianfei Cao)
 
 ### [Controlling Tail Risk Measures with Estimation Error](https://kajitetsuya.github.io/risk.pdf) (with Hyungjune Kang)
 
 ## Publications
+
+### [A Necessary and Sufficient Condition for Convergence in Distribution of Quantile Process in _L_<sup>1</sup>(0,1)](https://doi.org/10.48550/arXiv.2502.01254)
+
+> _Bernoulli_, accepted, 2026 (with Brendan Beare). [[Preprint]](https://doi.org/10.48550/arXiv.2502.01254)
 
 ### [Why Do the Elderly Save? Using Health Shocks to Uncover Bequests Motives](https://doi.org/10.1007/s42973-026-00249-5)
 
