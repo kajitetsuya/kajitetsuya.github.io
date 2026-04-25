@@ -8,7 +8,7 @@ I am Associate Professor of Econometrics and Statistics at the University of Chi
 
 ## Working Papers
 
-### [A Necessary and Sufficient Condition for Convergence in Distribution of P-P Process in _L_<sup>1</sup>(0,1)](https://doi.org/10.48550/arXiv.2601.18390) (with Brendan Beare)
+### [Convergence in Distribution of the P-P Process in _L_<sup>1</sup>[0,1]](https://doi.org/10.48550/arXiv.2601.18390) (with Brendan Beare)
 
 ### [Assessing Heterogeneity of Treatment Effects](https://doi.org/10.48550/arXiv.2306.15048) (with Jianfei Cao)
 
