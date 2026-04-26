@@ -22,11 +22,11 @@ I am Associate Professor of Econometrics and Statistics at the University of Chi
 
 ### [Why Do the Elderly Save? Using Health Shocks to Uncover Bequests Motives](https://doi.org/10.1007/s42973-026-00249-5)
 
-> _Japanese Economic Review_, forthcoming, 2026 (with Elena Manresa). [[Preprint]](https://doi.org/10.48550/arXiv.2511.13275)
+> _Japanese Economic Review_, **77**(2), 355–378, April 2026 (with Elena Manresa). [[Preprint]](https://doi.org/10.48550/arXiv.2511.13275)
 
 ### [The Hellinger Bounds on the Kullback-Leibler Divergence and the Bernstein Norm](https://doi.org/10.1007/s42973-026-00243-x)
 
-> _Japanese Economic Review_, forthcoming, 2026. [[Preprint]](https://doi.org/10.48550/arXiv.2601.17860)
+> _Japanese Economic Review_, **77**(2), 333–354, April 2026. [[Preprint]](https://doi.org/10.48550/arXiv.2601.17860)
 
 ### [An Adversarial Approach to Structural Estimation](https://doi.org/10.3982/ECTA18707)
 
