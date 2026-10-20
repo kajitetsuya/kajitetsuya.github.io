@@ -8,6 +8,8 @@ I am Associate Professor of Econometrics and Statistics at the University of Chi
 
 ## Working Papers
 
+### [A LATE-Targeting Experimental Design for Multi-Arm RCTs](https://doi.org/10.48550/arXiv.2610.25667)
+
 ### [Assessing Heterogeneity of Treatment Effects](https://doi.org/10.48550/arXiv.2306.15048) (with Jianfei Cao)
 
 ### [Controlling Tail Risk Measures with Estimation Error](https://kajitetsuya.github.io/risk.pdf) (with Hyungjune Kang)
