@@ -18,7 +18,7 @@ I am Associate Professor of Econometrics and Statistics at the University of Chi
 
 ### [Convergence in Distribution of the P-P Process in _L_<sup>1</sup>[0,1]](https://doi.org/10.1002/sta4.70177)
 
-> _Stat_, accepted, 2026 (with Brendan Beare). [[Preprint]](https://doi.org/10.48550/arXiv.2601.18390)
+> _Stat_, **15**(4), e70177, December 2026 (with Brendan Beare). [[Preprint]](https://doi.org/10.48550/arXiv.2601.18390)
 
 ### [A Necessary and Sufficient Condition for Convergence in Distribution of Quantile Process in _L_<sup>1</sup>(0,1)](https://www.e-publications.org/ims/submission/BEJ/user/submissionFile/70042?confirm=eb014f0b)
 
