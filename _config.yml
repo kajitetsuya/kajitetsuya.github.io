@@ -1,1 +1,11 @@
-theme: jekyll-theme-slate
+title: Tetsuya Kaji
+role: Associate Professor of Econometrics and Statistics
+affiliation: University of Chicago Booth School of Business
+photo: chicago-booth-tetsuya-kaji.jpg
+cv: cv.pdf
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default

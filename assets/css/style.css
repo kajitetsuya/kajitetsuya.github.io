@@ -1,0 +1,115 @@
+:root {
+  --bg: #fdfcf9;
+  --fg: #1d1d1f;
+  --muted: #6b6b6b;
+  --rule: #e4e0d8;
+  --accent: #1a56b8;
+  --pill: #e6eefb;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #16161a;
+    --fg: #e8e6e1;
+    --muted: #9a978f;
+    --rule: #2e2d30;
+    --accent: #8ab4f8;
+    --pill: #1c2a40;
+  }
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--fg);
+  font: 18px/1.6 "Source Serif 4", Georgia, serif;
+}
+
+main {
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 72px 20px 96px;
+}
+
+a { color: var(--accent); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+/* Header: photo, name, position, CV */
+.intro {
+  display: flex;
+  gap: 28px;
+  align-items: center;
+  margin-bottom: 40px;
+}
+.intro img {
+  width: 132px;
+  height: 165px;
+  object-fit: cover;
+  border-radius: 4px;
+  flex: none;
+}
+.intro h1 {
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 1.15;
+  letter-spacing: -.01em;
+  margin: 0 0 6px;
+}
+.intro p { margin: 0 0 6px; color: var(--muted); font-size: 1rem; }
+.intro .pill { display: inline-block; }
+
+/* Section headings */
+h2 {
+  font-size: .85rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: .14em;
+  color: var(--muted);
+  margin: 56px 0 16px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid var(--rule);
+}
+
+/* Paper entries: each list item is title / details / links */
+main > ul { list-style: none; margin: 0; padding: 0; }
+main > ul > li {
+  padding: 12px 0 12px 18px;
+  margin-bottom: 12px;
+  border-left: 2px solid var(--rule);
+  transition: border-color .15s;
+}
+main > ul > li:hover { border-left-color: var(--accent); }
+main > ul > li > p { margin: 0; }
+main > ul > li > p:first-child { font-weight: 600; }
+main > ul > li > p:not(:first-child):not(:last-child) {
+  color: var(--muted);
+  font-size: .95rem;
+  margin-top: 2px;
+}
+main > ul > li > p:not(:first-child):not(:last-child) a { color: inherit; text-decoration: underline; }
+main > ul > li > p:last-child:not(:first-child) {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 4px 16px;
+  margin-top: 8px;
+  font-size: .9rem;
+}
+
+.pill {
+  font-size: .85rem;
+  font-weight: 600;
+  background: var(--pill);
+  padding: 2px 12px;
+  border-radius: 999px;
+}
+.pill:hover { background: var(--accent); color: var(--bg); text-decoration: none; }
+
+.katex { font-size: 1.05em; }
+
+@media (max-width: 560px) {
+  main { padding-top: 40px; }
+  .intro { flex-direction: column; align-items: flex-start; }
+}
