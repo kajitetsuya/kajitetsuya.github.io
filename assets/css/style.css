@@ -58,7 +58,7 @@ a:hover { text-decoration: underline; }
   margin: 0 0 6px;
 }
 .intro p { margin: 0 0 6px; color: var(--muted); font-size: 1rem; }
-.intro .cv { font-size: 1rem; }
+.intro .pill { display: inline-block; }
 
 /* Section headings */
 h2 {

@@ -7,19 +7,19 @@ I am Associate Professor of Econometrics and Statistics at the University of Chi
 
 - A LATE-Targeting Experimental Design for Multi-Arm RCTs
 
-  [Preprint](https://doi.org/10.48550/arXiv.2610.25667)
+  [Preprint](https://doi.org/10.48550/arXiv.2610.25667){: .pill}
 
 - Assessing Heterogeneity of Treatment Effects
 
   with Jianfei Cao
 
-  [Preprint](https://doi.org/10.48550/arXiv.2306.15048)
+  [Preprint](https://doi.org/10.48550/arXiv.2306.15048){: .pill}
 
 - Controlling Tail Risk Measures with Estimation Error
 
   with Hyungjune Kang
 
-  [Preprint](risk.pdf)
+  [Preprint](risk.pdf){: .pill}
 
 ## Publications
 
