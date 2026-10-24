@@ -51,13 +51,13 @@ I am Associate Professor of Econometrics and Statistics at the University of Chi
 
   *Econometrica*, **91**(6), 2041–2063, November 2023 · with Elena Manresa and Guillaume Pouliot
 
-  [Article](https://doi.org/10.3982/ECTA18707){: .pill} [Preprint](https://arxiv.org/abs/2007.06169v2) [Supplement](https://www.econometricsociety.org/publications/econometrica/browse/2023/11/01/An-Adversarial-Approach-to-Structural-Estimation/supp/ecta200617-sup-0001-onlineappendix.pdf) [Code](https://doi.org/10.5281/zenodo.8310266) [CBR](https://review.chicagobooth.edu/economics/2020/article/can-automated-art-forgers-become-economists)
+  [Article](https://doi.org/10.3982/ECTA18707){: .pill} [Supplement](https://www.econometricsociety.org/publications/econometrica/browse/2023/11/01/An-Adversarial-Approach-to-Structural-Estimation/supp/ecta200617-sup-0001-onlineappendix.pdf) [Code](https://doi.org/10.5281/zenodo.8310266) [Preprint](https://arxiv.org/abs/2007.06169v2) [CBR](https://review.chicagobooth.edu/economics/2020/article/can-automated-art-forgers-become-economists)
 
 - Metropolis-Hastings via Classification
 
   *Journal of the American Statistical Association*, **118**(544), 2533–2547, 2023 · with Veronika Ročková
 
-  [Article](https://doi.org/10.1080/01621459.2022.2060836){: .pill} [Preprint](https://doi.org/10.48550/arXiv.2103.04177) [Supplement](https://ndownloader.figstatic.com/files/34780756)
+  [Article](https://doi.org/10.1080/01621459.2022.2060836){: .pill} [Supplement](https://ndownloader.figstatic.com/files/34780756) [Preprint](https://doi.org/10.48550/arXiv.2103.04177)
 
 - Approximate Bayesian Computation via Classification
 
@@ -75,10 +75,10 @@ I am Associate Professor of Econometrics and Statistics at the University of Chi
 
   *Econometrica*, **89**(2), 733–763, March 2021
 
-  [Article](https://doi.org/10.3982/ECTA16413){: .pill} [Preprint](https://doi.org/10.48550/arXiv.1908.10478) [Code](https://www.econometricsociety.org/content/supplement-theory-weak-identification-semiparametric-models)
+  [Article](https://doi.org/10.3982/ECTA16413){: .pill} [Code](https://www.econometricsociety.org/content/supplement-theory-weak-identification-semiparametric-models) [Preprint](https://doi.org/10.48550/arXiv.1908.10478)
 
 - Extremal Quantile Regression
 
-  [*Handbook of Quantile Regression*](https://doi.org/10.1201/9781315120256), ed. by R. Koenker, V. Chernozhukov, X. He, and L. Peng, Chapman & Hall/CRC, 2017, ch. 18, 333–362 · with Victor Chernozhukov and Iván Fernández-Val
+  *Handbook of Quantile Regression*, ed. by R. Koenker, V. Chernozhukov, X. He, and L. Peng, Chapman & Hall/CRC, 2017, ch. 18, 333–362 · with Victor Chernozhukov and Iván Fernández-Val
 
-  [Chapter](https://doi.org/10.1201/9781315120256-18){: .pill} [Preprint](https://doi.org/10.48550/arXiv.1612.06850) [Code](http://sites.bu.edu/ivanf/files/2016/12/EQR-handbook-code.zip)
+  [Chapter](https://doi.org/10.1201/9781315120256-18){: .pill} [Book](https://doi.org/10.1201/9781315120256){: .pill} [Code](http://sites.bu.edu/ivanf/files/2016/12/EQR-handbook-code.zip) [Preprint](https://doi.org/10.48550/arXiv.1612.06850)
