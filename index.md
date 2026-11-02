@@ -13,7 +13,7 @@ I am Associate Professor of Econometrics and Statistics at the University of Chi
 
   with Jianfei Cao
 
-  [Preprint](https://doi.org/10.48550/arXiv.2306.15048){: .pill}
+  [Preprint](https://doi.org/10.48550/arXiv.2306.15048){: .pill} [Code](https://github.com/jcao0/subgroup-treatment-effects)
 
 - Controlling Tail Risk Measures with Estimation Error
 
