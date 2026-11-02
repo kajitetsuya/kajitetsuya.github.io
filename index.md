@@ -7,7 +7,7 @@ I am Associate Professor of Econometrics and Statistics at the University of Chi
 
 - A LATE-Targeting Experimental Design for Multi-Arm RCTs
 
-  [Preprint](https://doi.org/10.48550/arXiv.2610.25667){: .pill}
+  [Preprint](https://doi.org/10.48550/arXiv.2610.25667){: .pill} [Lean](https://github.com/kajitetsuya/lean-late-design)
 
 - Assessing Heterogeneity of Treatment Effects
 
@@ -45,7 +45,7 @@ I am Associate Professor of Econometrics and Statistics at the University of Chi
 
   *Japanese Economic Review*, **77**(2), 333–354, April 2026
 
-  [Article](https://doi.org/10.1007/s42973-026-00243-x){: .pill} [Preprint](https://doi.org/10.48550/arXiv.2601.17860)
+  [Article](https://doi.org/10.1007/s42973-026-00243-x){: .pill} [Lean](https://github.com/kajitetsuya/lean-hellinger) [Preprint](https://doi.org/10.48550/arXiv.2601.17860)
 
 - An Adversarial Approach to Structural Estimation
 
