@@ -41,7 +41,7 @@ I am Associate Professor of Econometrics and Statistics at the University of Chi
 
   [Article](https://doi.org/10.1007/s42973-026-00249-5){: .pill} [Preprint](https://doi.org/10.48550/arXiv.2511.13275)
 
-- The Hellinger Bounds on the Kullback-Leibler Divergence and the Bernstein Norm
+- The Hellinger Bounds on the Kullback–Leibler Divergence and the Bernstein Norm
 
   *Japanese Economic Review*, **77**(2), 333–354, April 2026
 
