@@ -23,7 +23,7 @@ I am Associate Professor of Econometrics and Statistics at the University of Chi
 
 ## Publications
 
-- Convergence in Distribution of the P-P Process in $$L^1[0,1]$$
+- Convergence in Distribution of the P–P Process in $$L^1[0,1]$$
 
   *Stat*, **15**(4), e70177, December 2026 · with Brendan Beare
 
